@@ -1,0 +1,43 @@
+p,
+li,
+h1 {
+  color: rgb(53, 70, 170);
+}
+
+html {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black;
+}
+  
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-color: #4563c5;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #98c5da;
+  padding: 0 20px 20px 20px;
+  border: 5px solid rgb(255, 255, 255);
+  .mi-imagen {
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+  }
+}
